@@ -18,7 +18,7 @@ func (a *goAST) checkUnresolvedBlock() {
 							switch x := n.(type) {
 							case *ast.Ident:
 								if x.Name == "block" {
-									dsSl = append(dsSl, xds)
+									// dsSl = append(dsSl, xds)
 									ds = xds
 								}
 								// case *ast.CallExpr:
