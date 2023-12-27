@@ -1,4 +1,4 @@
-module github.com/servernoj/jade
+module github.com/quible-io/vendors-jade
 
 go 1.14
 

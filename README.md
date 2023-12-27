@@ -1,3 +1,6 @@
+# Purpose
+This is a forked version of the original jocker/jade repo that implements a fix (https://github.com/Joker/jade/issues/57) allowing to deal with nested `mixin` blocks. 
+
 # Jade.go - template engine for Go (golang)  
 Package jade (github.com/Joker/jade) is a simple and fast template engine implementing Jade/Pug template.  
 Jade precompiles templates to Go code or generates html/template.  
